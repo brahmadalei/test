@@ -1,0 +1,9 @@
+{
+	"name": "bd-datafactory-01",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "58e934bc-389f-46e9-81a4-cfe622188886",
+		"tenantId": "a6ba7436-70ef-43ed-8510-e7526b59b185"
+	}
+}
